@@ -1,1 +1,1 @@
-Deployment Link:https: //prashsan.github.io/CandyMuseum/
+Deployment Link:  https://prashsan.github.io/CandyMuseum/
